@@ -1,0 +1,14 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "0.1.0",
+  "description": "a boilerplate to start programming with typescript more faster",
+  "main": "app.ts",
+  "license": "no lisence",
+  "dependencies": {
+    "foundation": "~5.2.2",
+    "angular": "~1.2.16",
+    "requirejs": "~2.1.11",
+    "angular-route": "~1.2.16",
+    "socket.io-client": "~0.9.16"
+  }
+}

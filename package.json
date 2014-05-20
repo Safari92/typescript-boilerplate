@@ -1,0 +1,26 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "0.1.0",
+  "description": "a boilerplate to start programming with typescript more faster",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "bower": "^1.3.3",
+    "jade": "^1.3.1",
+    "socket.io": "^0.9.16"
+  },
+  "devDependencies": {
+    "typescript": "^1.0.0",
+    "grunt": "^0.4.4",
+    "grunt-typescript": "^0.3.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-scss-lint": "^0.1.5",
+    "grunt-sass": "^0.12.1",
+    "grunt-contrib-copy": "^0.5.0"
+  }
+}
