@@ -1,6 +1,8 @@
 Typescript-Boilerplate
 ======================
 
+    Deprecated! Do not use this!
+
 A bootstrapping project to create a webpage with
 
 * Typescript
